@@ -1,0 +1,24 @@
+.aatrox{
+    height: 200px;
+    width: 100px;
+    background-image: url(https://static.wikia.nocookie.net/leagueoflegends/images/5/58/Aatrox_Render.png/revision/latest?cb=20231105070335);
+}
+.atrox{
+    height: 200px;
+    width: 100px;
+    background-image: url(https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Aatrox_Alado_Render.png/revision/latest/scale-to-width/360?cb=20221012133104&path-prefix=pt-br);
+}
+#lampada{
+    margin-left: 40%;
+}
+#ligar{
+ margin-left: 570px;
+ background-color: red;
+ border-radius: 3px;
+border-style: solid;
+}
+#desligar{
+background-color: green;
+border-radius: 3px;
+border-style: solid;
+}
